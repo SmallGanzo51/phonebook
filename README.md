@@ -7,11 +7,11 @@
 
 Собрать проект:
 
-Собрать FAT JAR:
+Собрать JAR:
 
 ``\bash
 ./gradlew jar
-``\bash
+``
 
 Запуск JAR:
 
