@@ -17,7 +17,7 @@
 
 ``\bash
 java -jar app/build/libs/app-1.0.jar
-``\bash
+``
 
 ## 📦 Структура проекта
 
@@ -32,7 +32,7 @@ java -jar app/build/libs/app-1.0.jar
 
 ``\text
 logs/app.log
-``\text
+``
 
 ## 🧪 Тесты
 
@@ -40,5 +40,5 @@ logs/app.log
 
 ``\bash
 ./gradlew test
-``\bash
+``
 
